@@ -1,1 +1,1 @@
-# Machine-Learning-Biosciences
+# Machine Learning Biosciences
